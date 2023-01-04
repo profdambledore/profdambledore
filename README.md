@@ -17,6 +17,7 @@ After finishing my degrees, I am now ready and excited to start work in the indu
   <a href="https://twitter.com/ProfDambleDore"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
   <!--<a href="https://twitter.com/ProfDambleDore"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> -->
   <a href="discordapp.com/users/254318582538829826"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"> </a>
+   <a href="https://www.linkedin.com/in/profdambledore/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </div>
 
 
