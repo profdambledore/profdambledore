@@ -9,6 +9,10 @@
   
 After finishing my degrees, I am now ready and excited to start work in the industry!  If you are looking for a motivated and eager developer, please contact me on Twitter, send me an email or message me on Discord and I can provide you with my resume.
   
+Cheers,
+  
+Dan
+  
 </td></tr></tr></table> 
 
 <div align = center>
