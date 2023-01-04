@@ -7,7 +7,7 @@
 - I enjoy recreating features from the games I play
 - I am interested in joining a team working on an existing project
   
-After finishing my degrees, I am now ready and excited to start work in the industry!  If you are looking for a motivated and eager developer, please contact me on Twitter, send me an email or message me on Discord.
+After finishing my degrees, I am now ready and excited to start work in the industry!  If you are looking for a motivated and eager developer, please contact me on Twitter, send me an email or message me on Discord and I can provide you with my resume.
   
 </td></tr></tr></table> 
 
