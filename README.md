@@ -1,7 +1,7 @@
 
 <table><tr><td valign="center" width="100%">
 
-##  Hello, I an Dan
+##  Hello, I'm Dan
 - I currently work with Unreal Engine, but I am always open to try new languages/IDE's
 - Both of my degrees were focused around Unreal Engine 4
 - I enjoy recreating features from the games I play
