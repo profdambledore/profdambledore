@@ -34,6 +34,7 @@ Dan
 - [A N-Body Simulation created in Unreal Engine 4](https://github.com/profdambledore/UE4-N_Body_Simulation)
 - [A prototype for a bar management game in Unreal Engine 4](https://github.com/profdambledore/UE4_Pub)
 - [A prototype of an Arena Game, based around Ratchet and Clank's arenas](https://github.com/profdambledore/UE4_RCArena)
+- Dore's Pub, a pub management game
 - Pik-Quik, a Unreal Engine game about fast shopping
   
 ## Upcoming Projects
