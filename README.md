@@ -25,6 +25,21 @@ Dan
   <a href="https://discordapp.com/users/254318582538829826"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"> </a>
    <a href="https://www.linkedin.com/in/profdambledore/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
 </div>
+  
+  
+<table><tr><td valign="center" width="100%">
+
+##  If I could show you one thing, it would be...
+  
+  ### Dore's Pub
+  
+  <!-- Icon here -->
+  
+  Dore's Pub is my current game project. Taking inspiration from games such as the Sims series and Project Architect, Dore's Pub allows the player to create and run their own pub or bar.
+  
+  To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/)
+  
+</td></tr></tr></table> 
 
 
 <table><tr><td valign="center" width="50%">
