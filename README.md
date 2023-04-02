@@ -50,11 +50,9 @@ Dan
 - [A prototype for a bar management game in Unreal Engine 4](https://github.com/profdambledore/UE4_Pub)
 - [A prototype of an Arena Game, based around Ratchet and Clank's arenas](https://github.com/profdambledore/UE4_RCArena)
 - Dore's Pub, a pub management game
-- Pik-Quik, a Unreal Engine game about fast shopping
   
-## Upcoming Projects
-- How would Genshin Impact play if all of your party was on the field at once?
-- How could a N-Body Simulation be converted into a virtual toy?
+<!-- ## Upcoming Projects -->
+
  
 </td><td valign="top" width="25%">
 
