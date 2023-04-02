@@ -40,7 +40,7 @@ Dan
   
   Dore's Pub is my current game project. Taking inspiration from games such as the Sims series and Project Architect, Dore's Pub allows the player to create and run their own pub or bar.
   
-  To see where the project is currently, you can view the repo here - [Link]([https://github.com/profdambledore/](https://github.com/profdambledore/DoresPub))
+  To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/DoresPub)
   
 </td></tr></tr></table> 
 
