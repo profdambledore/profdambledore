@@ -31,16 +31,16 @@ Dan
 
 ##  If I could show you one thing, it would be...
   
-  ### Dore's Pub
+  ### Prototype: Food Game
   
   <!-- Icon here -->
   <p align="center">
-  <img src="https://github.com/profdambledore/DoresPub/blob/main/DocsAndImages/DoresPubIconOne.png" />
+  <img src="" />
 </p>
   
-  Dore's Pub is my current game project. Taking inspiration from games such as the Sims series and Project Architect, Dore's Pub allows the player to create and run their own pub or bar.
+  Prototype: FoodGame is the project I am currently working on. It places the player in their own small food restaraunt, where they must cook food, complete orders and serve customers to beat time limits and keep the day going - Crazy Taxi style.
   
-  To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/DoresPub)
+  To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/FoodGame)
   
 </td></tr></tr></table> 
 
@@ -52,7 +52,8 @@ Dan
 - [A N-Body Simulation created in Unreal Engine 4](https://github.com/profdambledore/UE4-N_Body_Simulation)
 - [A prototype for a bar management game in Unreal Engine 4](https://github.com/profdambledore/UE4_Pub)
 - [A prototype of an Arena Game, based around Ratchet and Clank's arenas](https://github.com/profdambledore/UE4_RCArena)
-- Dore's Pub, a pub management game
+- [Dore's Pub, a pub management game](https://github.com/profdambledore/DoresPub)
+- Prototype: FoodGame
   
 <!-- ## Upcoming Projects -->
 
