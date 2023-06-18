@@ -35,7 +35,7 @@ Dan
   
   <!-- Icon here -->
   <p align="center">
-  <img src="" />
+  <img src="https://github.com/profdambledore/FoodGame/blob/main/Docs/logo.PNG" />
 </p>
   
   Prototype: FoodGame is the project I am currently working on. It places the player in their own small food restaraunt, where they must cook food, complete orders and serve customers to beat time limits and keep the day going - Crazy Taxi style.
