@@ -27,7 +27,7 @@ Dan
   
 <table><tr><td valign="center" width="100%">
 
-##  If I could show you one thing, it would be...
+##  If I could show you two things, they would be...
   
   ### Prototype: Food Game
   
@@ -36,9 +36,20 @@ Dan
   <img src="https://github.com/profdambledore/FoodGame/blob/main/Docs/logo.PNG" />
 </p>
   
-  Prototype: FoodGame is the project I am currently working on. It places the player in their own small food restaraunt, where they must cook food, complete orders and serve customers to beat time limits and keep the day going - Crazy Taxi style.
+  Prototype: FoodGame one of the projects I am currently working on. It places the player in their own small food restaraunt, where they must cook food, complete orders and serve customers to beat time limits and keep the day going - Crazy Taxi style.
   
   To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/FoodGame)
+
+   ### Galaxy Explorer
+  
+  <!-- Icon here -->
+  <p align="center">
+  <img src="https://github.com/profdambledore/GalaxyExplorer/blob/main/Docs/introImage.jpg" />
+</p>
+  
+  Prototype: FoodGame is the other I am currently working on. It is a challenge I set myself to recreate Star Citizen's ship system in Unreal Engine 4.
+  
+  To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/GalaxyExplorer)
   
 </td></tr></tr></table> 
 
