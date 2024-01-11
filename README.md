@@ -44,7 +44,7 @@ To see where the project is currently, you can view the repo here - [Link](https
   
   <!-- Icon here -->
   <p align="center">
-  <img src="https://github.com/profdambledore/FoodGame/blob/main/Docs/logo.PNG" />
+  <img src="https://github.com/profdambledore/TilesetGeneration/blob/main/Images/Display.png" />
 </p>
 
 I have created a tileset-based generation system to allow worlds to be generated via separate 'islands' with doorways connecting each one in order. Using a tree data structure to store the world elements, users can generate, clear and regenerate worlds at a call of a function, while a seed system allows users to create the same worlds multiple times via an integer.
