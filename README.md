@@ -80,16 +80,17 @@ To see where the project is currently, you can view the repo here - [Link](https
 <table><tr><td valign="center" width="50%">
 
 ##  Projects
+- [A Single Input Character](https://github.com/profdambledore/SingleInputCharacter)
 - [A Tileset Generation System in Unreal](https://github.com/profdambledore/TilesetGeneration)
 - [A N-Body Simulation created in Unreal Engine 4](https://github.com/profdambledore/UE4-N_Body_Simulation)
-- [A Destiny 2 inspired Weapon System in Unreal Engine 4](https://github.com/profdambledore/Weapon_System)
 - [Dore's Pub, a pub management game](https://github.com/profdambledore/DoresPub)
-- Prototype: FoodGame
+- [Prototype: FoodGame](https://github.com/profdambledore/FoodGame)
+- [Galaxy Explorer](https://github.com/profdambledore/GalaxyExplorer)
 
 ##  Prototypes
 - [A prototype of an Arena Game, based around Ratchet and Clank's arenas](https://github.com/profdambledore/UE4_RCArena)
 - [A prototype for a bar management game in Unreal Engine 4](https://github.com/profdambledore/UE4_Pub)
-- [A prototype for a bar management game in Unreal Engine 4](https://github.com/profdambledore/UE4_Pub)
+- [A Destiny 2 inspired Weapon System in Unreal Engine 4](https://github.com/profdambledore/Weapon_System)
 <!-- ## Upcoming Projects -->
 
  
