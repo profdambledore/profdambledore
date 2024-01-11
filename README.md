@@ -26,7 +26,8 @@ Dan
   
   
 <table><tr><td valign="center" width="100%">
-##  My current project is...
+  
+## My current project is...
   ### Single Input Character
   
   <!-- Icon here -->
@@ -38,7 +39,7 @@ SingleInputCharacter is my current project.  The goal is to create a player char
 
 To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/SingleInputCharacter)
 
-##  My most recent project is...
+##  My most recent project is
   ### Tileset Generation System
   
   <!-- Icon here -->
