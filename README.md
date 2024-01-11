@@ -26,9 +26,31 @@ Dan
   
   
 <table><tr><td valign="center" width="100%">
-
-##  If I could show you two things, they would be...
+##  My current project is...
+  ### Single Input Character
   
+  <!-- Icon here -->
+  <p align="center">
+  <img src="https://github.com/profdambledore/FoodGame/blob/main/Docs/logo.PNG" />
+</p>
+
+SingleInputCharacter is my current project.  The goal is to create a player character with all features required from a modern game (inventory, movement, crafting, combat) but with the limitation of only a single input method.
+
+To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/SingleInputCharacter)
+
+##  My most recent project is...
+  ### Tileset Generation System
+  
+  <!-- Icon here -->
+  <p align="center">
+  <img src="https://github.com/profdambledore/FoodGame/blob/main/Docs/logo.PNG" />
+</p>
+
+I have created a tileset-based generation system to allow worlds to be generated via separate 'islands' with doorways connecting each one in order. Using a tree data structure to store the world elements, users can generate, clear and regenerate worlds at a call of a function, while a seed system allows users to create the same worlds multiple times via an integer.
+
+To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/TilesetGeneration)
+
+##  Some of my prototype projects include...  
   ### Prototype: Food Game
   
   <!-- Icon here -->
@@ -36,7 +58,7 @@ Dan
   <img src="https://github.com/profdambledore/FoodGame/blob/main/Docs/logo.PNG" />
 </p>
   
-  Prototype: FoodGame one of the projects I am currently working on. It places the player in their own small food restaraunt, where they must cook food, complete orders and serve customers to beat time limits and keep the day going - Crazy Taxi style.
+  Prototype: FoodGame is one of my past prototypes. It places the player in their own small food restaraunt, where they must cook food, complete orders and serve customers to beat time limits and keep the day going - Crazy Taxi style.
   
   To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/FoodGame)
 
@@ -47,7 +69,7 @@ Dan
   <img src="https://github.com/profdambledore/GalaxyExplorer/blob/main/Docs/introImage.jpg" />
 </p>
   
-  Prototype: FoodGame is the other I am currently working on. It is a challenge I set myself to recreate Star Citizen's ship system in Unreal Engine 4.
+  GalaxyExplorer is another one of my past prototypes. It is a challenge I set myself to recreate Star Citizen's ship system in Unreal Engine 4.
   
   To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/GalaxyExplorer)
   
