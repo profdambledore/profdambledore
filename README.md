@@ -32,7 +32,7 @@ Dan
   
   <!-- Icon here -->
   <p align="center">
-  <img src="https://github.com/profdambledore/SingleInputCharacter/blob/main/Images/v05-001.png" />
+  <img src="https://github.com/profdambledore/SingleInputCharacter/blob/main/Images/v06-001.png" />
 </p>
 
 SingleInputCharacter is my current project.  The goal is to create a player character with all features required from a modern game (inventory, movement, crafting, combat) but with the limitation of only a single input method.
