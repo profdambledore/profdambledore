@@ -28,6 +28,18 @@ Dan
 <table><tr><td valign="center" width="100%">
   
 ## My current project is...
+  ### Star Menders
+
+  <p align="center">
+  <img src="https://github.com/profdambledore/StarMenders/blob/main/Images/logov1.PNG" />
+</p>
+
+Star Menders is my current project and a puzzle game I am creating!  Players have to record their movement and actions on different tracks and play back their recordings to complete puzzles and stop black holes from forming.
+
+To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/StarMenders)
+
+ 
+##  My most recent projects are
   ### Single Input Character
   
   <!-- Icon here -->
@@ -39,7 +51,7 @@ SingleInputCharacter is my current project.  The goal is to create a player char
 
 To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/SingleInputCharacter)
 
-##  My most recent project is
+
   ### Tileset Generation System
   
   <!-- Icon here -->
@@ -50,6 +62,8 @@ To see where the project is currently, you can view the repo here - [Link](https
 I have created a tileset-based generation system to allow worlds to be generated via separate 'islands' with doorways connecting each one in order. Using a tree data structure to store the world elements, users can generate, clear and regenerate worlds at a call of a function, while a seed system allows users to create the same worlds multiple times via an integer.
 
 To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/TilesetGeneration)
+
+ 
 
 ##  Some of my prototype projects include...  
   ### Prototype: Food Game
