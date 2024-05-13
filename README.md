@@ -31,7 +31,7 @@ Dan
   ### Star Menders
 
   <p align="center">
-  <img src="https://github.com/profdambledore/StarMenders/blob/main/Images/logov1.PNG" />
+  <img src="https://github.com/profdambledore/StarMenders/blob/main/Images/logov2.PNG" />
 </p>
 
 Star Menders is my current project and a puzzle game I am creating!  Players have to record their movement and actions on different tracks and play back their recordings to complete puzzles and stop black holes from forming.
