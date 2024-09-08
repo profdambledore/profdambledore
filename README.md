@@ -27,19 +27,29 @@ Dan
   
 <table><tr><td valign="center" width="100%">
   
-## My current project is...
+## My current projects are...
   ### Star Menders
 
   <p align="center">
   <img src="https://github.com/profdambledore/StarMenders/blob/main/Images/logov2.PNG" />
 </p>
 
-Star Menders is my current project and a puzzle game I am creating!  Players have to record their movement and actions on different tracks and play back their recordings to complete puzzles and stop black holes from forming.
+Star Menders is one of my current project and a puzzle game I am creating!  Players have to record their movement and actions on different tracks and play back their recordings to complete puzzles and stop black holes from forming.
 
 To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/StarMenders)
 
+### Dore's Pub
+
+  <p align="center">
+  <img src="https://github.com/profdambledore/DoresPub/blob/main/Images/DoresPubIconOne.png" />
+</p>
+
+Dore's Pub is another project I am working on!  Players have a bird's eye view to design, create and manage their own modern English style pub.  Players can create their own wall plan or use one of the preset buildings.
+
+To see where the project is currently, you can view the repo here - [Link](https://github.com/profdambledore/DoresPub)
+
  
-##  My most recent projects are
+##  Some of my other projects are...
   ### Single Input Character
   
   <!-- Icon here -->
@@ -97,7 +107,6 @@ To see where the project is currently, you can view the repo here - [Link](https
 - [A Single Input Character](https://github.com/profdambledore/SingleInputCharacter)
 - [A Tileset Generation System in Unreal](https://github.com/profdambledore/TilesetGeneration)
 - [A N-Body Simulation created in Unreal Engine 4](https://github.com/profdambledore/UE4-N_Body_Simulation)
-- [Dore's Pub, a pub management game](https://github.com/profdambledore/DoresPub)
 - [Prototype: FoodGame](https://github.com/profdambledore/FoodGame)
 - [Galaxy Explorer](https://github.com/profdambledore/GalaxyExplorer)
 
@@ -111,13 +120,14 @@ To see where the project is currently, you can view the repo here - [Link](https
 </td><td valign="top" width="25%">
 
 ## Known Languages and Software
-- C++
+- C++ and UE Blueprints
 - JavaScript, HTML and CSS
 - ActionScript
 - Python
 - Phaser3
 - Unreal Engine 4/5
-- Visual Studio
+- Visual Studio and VS Code
+- LaTeX
 - Adobe Flash
   
 </td></tr></tr></table> 
